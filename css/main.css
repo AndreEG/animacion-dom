@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #bdfafa;
+}
+
+h1{
+    color: purple;
+    font-family: 'Lobster', cursive;
+    margin: 80px 20px 20px;
+    font-size: 50px;
+}
+
+p{
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 30px;
+}
+
+.container {
+    width: 338px;
+    margin: 30px auto;
+}
+
+.container div {
+    box-sizing: border-box;
+    border: 2px solid black;
+    width: 70px;
+    height: 70px;
+    margin: 5px;
+    display: inline-block;
+}
+
+.purple {
+    background-color: purple;
+}
